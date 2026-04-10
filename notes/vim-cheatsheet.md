@@ -2,3 +2,4 @@
 
 - entry 3: see `vim-cheatsheet` reference
 - entry 55: see `vim-cheatsheet` reference
+- entry 107: see `vim-cheatsheet` reference
