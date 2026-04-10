@@ -2,3 +2,4 @@
 
 - entry 2: see `git-workflow` reference
 - entry 54: see `git-workflow` reference
+- entry 106: see `git-workflow` reference
