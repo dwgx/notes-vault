@@ -2,3 +2,4 @@
 
 - entry 12: see `rust-ownership` reference
 - entry 64: see `rust-ownership` reference
+- entry 116: see `rust-ownership` reference
